@@ -1,0 +1,17 @@
+﻿[
+  { "prompt": "The report, many sections of ______ were redacted, was released.",
+    "choices": ["which","that","whom","whose"],
+    "answer": "a",
+    "explain": "Sections of which (non-defining clause)."
+  },
+  { "prompt": "We arrived ______ the venue just before noon.",
+    "choices": ["to","at","in","into"],
+    "answer": "b",
+    "explain": "Arrive at (venue); arrive in (city/country)."
+  },
+  { "prompt": "No sooner ______ than the alarms went off.",
+    "choices": ["the plane took off","had the plane taken off","has the plane taken off","did the plane take off"],
+    "answer": "b",
+    "explain": "No sooner had ... than ..."
+  }
+]

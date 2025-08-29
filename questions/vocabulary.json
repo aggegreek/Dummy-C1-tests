@@ -1,0 +1,17 @@
+﻿[
+  { "prompt": "Choose the correct collocation: \"______ the policy.\"",
+    "choices": ["in accordance with","under accordance with","on accordance with","of accordance with"],
+    "answer": "a",
+    "explain": "Fixed: in accordance with."
+  },
+  { "prompt": "Choose the phrasal verb meaning \"withdraw from an agreement\".",
+    "choices": ["back out of","back up","back off","back away from"],
+    "answer": "a",
+    "explain": "Correct: back out of."
+  },
+  { "prompt": "Choose the collocation: \"______ the figures.\"",
+    "choices": ["cast doubt on","throw doubt at","put doubt on","raise doubt over"],
+    "answer": "a",
+    "explain": "Fixed: cast doubt on."
+  }
+]

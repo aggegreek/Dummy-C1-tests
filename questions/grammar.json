@@ -1,0 +1,17 @@
+﻿[
+  { "prompt": "Choose the correct inversion: \"Seldom ______ such resistance.\"", 
+    "choices": ["we encounter","did we encounter","we did encounter","were we encountering"],
+    "answer": "b",
+    "explain": "Negative adverbial -> inversion with \"did\"."
+  },
+  { "prompt": "Had the team ______ the warnings, they would have avoided the delay.",
+    "choices": ["heeded","heed","had heeded","heeding"],
+    "answer": "a",
+    "explain": "Had + subject + past participle (inversion)."
+  },
+  { "prompt": "The board insists that he ______ present.",
+    "choices": ["is","be","was","will be"],
+    "answer": "b",
+    "explain": "Mandative subjunctive -> base form \"be\"."
+  }
+]

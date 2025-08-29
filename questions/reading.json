@@ -1,0 +1,22 @@
+﻿[
+  { "prompt": "Read: \"Although the rollout met its initial targets, user engagement plateaued after the first month, suggesting novelty rather than sustained value drove the early numbers.\" \n\n What is implied about the early success?",
+    "choices": ["It was primarily driven by novelty.","Targets were too conservative.","Marketing spend was insufficient.","Engagement steadily increased."],
+    "answer": "a",
+    "explain": "Novelty rather than sustained value drove the early numbers."
+  },
+  { "prompt": "Read: \"The committee stopped short of endorsing the proposal, citing unanswered questions about data provenance and replicability.\" \n\n The committee's stance can best be described as ______.",
+    "choices": ["cautiously supportive","conditionally skeptical","unequivocally opposed","enthusiastically approving"],
+    "answer": "b",
+    "explain": "They stopped short of endorsing."
+  },
+  { "prompt": "Read: \"Far from being an afterthought, accessibility shaped the redesign from the outset, influencing type choices, color contrast, and navigation.\" \n\n Which statement aligns with the author's view?",
+    "choices": ["Accessibility was secondary.","Accessibility drove key design decisions.","Accessibility hindered aesthetics.","Only navigation was affected."],
+    "answer": "b",
+    "explain": "Accessibility shaped the redesign from the outset."
+  },
+  { "prompt": "Read: \"Preliminary trials yielded promising results, yet the sample size was too small to justify sweeping conclusions.\" \n\n Which is the best summary?",
+    "choices": ["Results were strong but not definitive.","Trials failed outright.","Sample size was adequate.","Conclusions were sweeping and justified."],
+    "answer": "a",
+    "explain": "Promising + too small for broad claims."
+  }
+]

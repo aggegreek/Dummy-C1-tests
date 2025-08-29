@@ -1,0 +1,17 @@
+﻿[
+  { "prompt": "The CEO gave a remarkably ______ speech.",
+    "choices": ["persuasiveness","persuasive","persuasion","persuasively"],
+    "answer": "b",
+    "explain": "Adjective after \"remarkably\"."
+  },
+  { "prompt": "We need to think more ______ about the rollout.",
+    "choices": ["strategic","strategically","strategy","strategist"],
+    "answer": "b",
+    "explain": "Adverb modifies \"think\"."
+  },
+  { "prompt": "Her review was unduly ______.",
+    "choices": ["critical","critique","criticised","critically"],
+    "answer": "a",
+    "explain": "Adjective \"critical\"."
+  }
+]
